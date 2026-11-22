@@ -1,16 +1,66 @@
-# React + Vite
+# Personal Profile
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal profile website built with React to introduce my skills, projects, and contact information.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a passionate Frontend Developer interested in building modern, responsive, and user-friendly web applications.
 
-## React Compiler
+I'm continuously improving my skills in JavaScript, React, and modern web technologies.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Built With
 
-## Expanding the ESLint configuration
+- React
+- JavaScript
+- JSX
+- CSS
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Personal introduction
+- Skills section
+- Projects showcase
+- Contact information
+- Reusable React components
+
+## Projects
+
+### Bookly
+A digital bookstore and library application built with Flutter and Dart.
+
+### Task Manager
+A task management application built with Flutter and Django REST Framework.
+
+## Contact
+
+- **GitHub:** [Sobhan-Borzoei-Rad](https://github.com/Sobhan-Borzoei-Rad)
+- **Email:** sobhanborzouirad@gmail.com
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## Status
+
+This project is part of my React learning journey and will be improved as I learn new concepts.
+
+---
+
+© 2026 Sobhan Borzoei Rad. All rights reserved.
